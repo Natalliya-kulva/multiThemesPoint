@@ -4,33 +4,33 @@
 
 
 1. Yellow:
-  - Extra-Dark: Yellow 950
-  - Dark: Yellow 700
+  - darker: Yellow 950
+  - dark: Yellow 700
   - default (основной): Yellow 500
-  - Light: Yellow 200
-  - Extra-Light: Yellow 100
-  - Ultra-Light: Yellow 50
+  - light: Yellow 200
+  - lighter: Yellow 100
+  - lightest: Yellow 50
 
 2. Red:
-  - Extra-Dark: Red 950
-  - Dark: Red 800
+  - darker: Red 950
+  - dark: Red 800
   - default (основной): Red 600
-  - Light: Red 200
-  - Extra-Light: Red 100
-  - Ultra-Light: Red 50
+  - light: Red 200
+  - lighter: Red 100
+  - lightest: Red 50
 
 3. Green:
-  - Extra-Dark: Green 950
-  - Dark: Green 800
+  - darker: Green 950
+  - dark: Green 800
   - default (основной): Green 600
-  - Light: Green 200
-  - Extra-Light: Green 100
-  - Ultra-Light: Green 50
+  - light: Green 200
+  - lighter: Green 100
+  - lightest: Green 50
 
 4. Indigo:
-  - Extra-Dark: Indigo 950
-  - Dark: Indigo 800
+  - darker: Indigo 950
+  - dark: Indigo 800
   - default (основной): Indigo 600
-  - Light: Indigo 200
-  - Extra-Light: Indigo 100
-  - Ultra-Light: Indigo 50
+  - light: Indigo 200
+  - lighter: Indigo 100
+  - lightest: Indigo 50
