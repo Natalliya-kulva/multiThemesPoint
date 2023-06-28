@@ -1,0 +1,60 @@
+@tailwind base;
+@tailwind components;
+.theme-red {
+  --color-primary-extra-dark: #450a0a;
+  --color-primary-dark: #991b1b;
+  --color-primary:#dc2626;
+  --color-primary-light: #fecaca;
+  --color-primary-extra-light: #fee2e2;
+  --color-primary-ultra-light: #fef2f2;
+
+  --color-secondary-extra-dark: #451a03;
+  --color-secondary-dark: #a16207;
+  --color-secondary: #eab308;
+  --color-secondary-light: #fef08a;
+  --color-secondary-extra-light: #fef9c3;
+  --color-secondary-ultra-light: #fefce8;
+}
+.theme-yellow {
+  --color-primary-extra-dark: #451a03;
+  --color-primary-dark: #a16207;
+  --color-primary: #eab308;
+  --color-primary-light: #fef08a;
+  --color-primary-extra-light: #fef9c3;
+  --color-primary-ultra-light: #fefce8;
+
+  --color-secondary-extra-dark: #052e16;
+  --color-secondary-dark: #166534;
+  --color-secondary: #16a34a;
+  --color-secondary-light: #bbf7d0;
+  --color-secondary-extra-light: #dcfce7;
+  --color-secondary-ultra-light: #f0fdf4;
+}
+.theme-green {
+  --color-primary-extra-dark: #052e16;
+  --color-primary-dark: #166534;
+  --color-primary: #16a34a;
+  --color-primary-light: #bbf7d0;
+  --color-primary-extra-light: #dcfce7;
+  --color-primary-ultra-light: #f0fdf4;
+
+  --color-secondary-extra-dark: #881337;
+  --color-secondary-dark: #9f1239;
+  --color-secondary: #e11d48;
+  --color-secondary-light: #fecdd3;
+  --color-secondary-extra-light: #ffe4e6;
+  --color-secondary-ultra-light: #fff1f2;
+}
+.theme-indigo {
+  --color-primary-extra-dark: #3730a3;
+  --color-primary-dark: #3730a3;
+  --color-primary: #7c3aed;
+  --color-primary-light: #c7d2fe;
+  --color-primary-extra-light: #e0e7ff;
+  --color-primary-ultra-light: #eef2ff;
+
+  --color-secondary-dark: #c2410c;
+  --color-secondary: #ea580c;
+}
+
+@tailwind utilities;
